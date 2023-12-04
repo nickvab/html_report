@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.js": "./main.664e73c8fc886dce5763.bundle.js",
+    "main.js.map": "./main.664e73c8fc886dce5763.bundle.js.map",
+    "runtime~main.js": "./runtime~main.664e73c8fc886dce5763.bundle.js",
+    "runtime~main.js.map": "./runtime~main.664e73c8fc886dce5763.bundle.js.map",
+    "vendors~main.css": "./static/css/vendors~main.35343bcc.chunk.css",
+    "vendors~main.js": "./vendors~main.664e73c8fc886dce5763.bundle.js",
+    "vendors~main.css.map": "./static/css/vendors~main.35343bcc.chunk.css.map",
+    "vendors~main.js.map": "./vendors~main.664e73c8fc886dce5763.bundle.js.map",
+    "3.664e73c8fc886dce5763.bundle.js": "./3.664e73c8fc886dce5763.bundle.js",
+    "3.664e73c8fc886dce5763.bundle.js.map": "./3.664e73c8fc886dce5763.bundle.js.map",
+    "4.664e73c8fc886dce5763.bundle.js": "./4.664e73c8fc886dce5763.bundle.js",
+    "4.664e73c8fc886dce5763.bundle.js.map": "./4.664e73c8fc886dce5763.bundle.js.map",
+    "5.664e73c8fc886dce5763.bundle.js": "./5.664e73c8fc886dce5763.bundle.js",
+    "5.664e73c8fc886dce5763.bundle.js.map": "./5.664e73c8fc886dce5763.bundle.js.map",
+    "6.664e73c8fc886dce5763.bundle.js": "./6.664e73c8fc886dce5763.bundle.js",
+    "6.664e73c8fc886dce5763.bundle.js.map": "./6.664e73c8fc886dce5763.bundle.js.map",
+    "7.664e73c8fc886dce5763.bundle.js": "./7.664e73c8fc886dce5763.bundle.js",
+    "7.664e73c8fc886dce5763.bundle.js.map": "./7.664e73c8fc886dce5763.bundle.js.map",
+    "8.664e73c8fc886dce5763.bundle.js": "./8.664e73c8fc886dce5763.bundle.js",
+    "8.664e73c8fc886dce5763.bundle.js.map": "./8.664e73c8fc886dce5763.bundle.js.map",
+    "9.664e73c8fc886dce5763.bundle.js": "./9.664e73c8fc886dce5763.bundle.js",
+    "9.664e73c8fc886dce5763.bundle.js.map": "./9.664e73c8fc886dce5763.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "static/media/coins-reg-succsess.3c552f7a.png": "./static/media/coins-reg-succsess.3c552f7a.png",
+    "static/media/crypto-test.c9327881.svg": "./static/media/crypto-test.c9327881.svg",
+    "static/media/kazakhstan.f89344a1.png": "./static/media/kazakhstan.f89344a1.png",
+    "static/media/loader-red.png": "./static/media/loader-red.b87e193d.png",
+    "static/media/loader-white.png": "./static/media/loader-white.5894e265.png",
+    "static/media/logo-corners.svg": "./static/media/logo-corners.02c34d48.svg",
+    "static/media/logo.7efab563.svg": "./static/media/logo.7efab563.svg",
+    "vendors~main.664e73c8fc886dce5763.bundle.js.LICENSE.txt": "./vendors~main.664e73c8fc886dce5763.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.664e73c8fc886dce5763.bundle.js",
+    "static/css/vendors~main.35343bcc.chunk.css",
+    "vendors~main.664e73c8fc886dce5763.bundle.js",
+    "main.664e73c8fc886dce5763.bundle.js"
+  ]
+}

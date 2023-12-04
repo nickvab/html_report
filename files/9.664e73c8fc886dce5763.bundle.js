@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{2591:function(module,__webpack_exports__,__webpack_require__){"use strict";__webpack_require__.r(__webpack_exports__),__webpack_require__.d(__webpack_exports__,"MediaWeb",(function(){return MediaWeb}));var _capacitor_core__WEBPACK_IMPORTED_MODULE_0__=__webpack_require__(122);class MediaWeb extends _capacitor_core__WEBPACK_IMPORTED_MODULE_0__.d{savePhoto(){throw new Error("Media plugin doesn't have web implementationn")}}}}]);
+//# sourceMappingURL=9.664e73c8fc886dce5763.bundle.js.map
